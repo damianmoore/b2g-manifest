@@ -6,7 +6,7 @@
   <remote name="evervolv" fetch="git://github.com/Evervolv/" />
 
   <!-- Nexus One specific things -->
-  <project name="device-passion" path="device/lge/mako" remote="evervolv"/>
+  <project name="device-passion" path="android_device_htc_passion" remote="evervolv"/>
 
 </manifest>
 
