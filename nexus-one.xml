@@ -1,0 +1,12 @@
+<?xml version="1.0" ?><manifest>
+
+  <include name="base-jb.xml"/>
+
+  <default remote="aosp" revision="refs/tags/android-4.2.2_r1" sync-j="4"/>
+  <remote name="evervolv" fetch="git://github.com/Evervolv/" />
+
+  <!-- Nexus One specific things -->
+  <project name="device-passion" path="device/lge/mako" remote="evervolv"/>
+
+</manifest>
+
