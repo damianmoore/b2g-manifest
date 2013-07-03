@@ -6,7 +6,7 @@
   <remote name="evervolv" fetch="git://github.com/Evervolv/" />
 
   <!-- Nexus One specific things -->
-  <project name="android_device_htc_passion" remote="evervolv" revision="b2g-4.2.2_r1"/>
+  <project name="android_device_htc_passion" remote="evervolv" revision="jellybean"/>
 
 </manifest>
 
